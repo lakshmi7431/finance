@@ -1,4 +1,3 @@
-# finance
 # Finance Dashboard API
 
 A role-based REST API built with **FastAPI** and **MySQL** for managing financial records. It supports user authentication via JWT tokens, three user roles with different access levels, and a full financial dashboard with income/expense tracking.
